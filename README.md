@@ -7,6 +7,4 @@
 - 🌱 I’m currently learning Frontend frameworks.
 - 💬 Ask me about Data Structure,Java,Web development.
 - 👀 I’m interested in programming.
-- 📫 How to reach me: nimbolkaryogita@gmail.com 
-
 
