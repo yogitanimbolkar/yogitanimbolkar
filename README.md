@@ -14,8 +14,6 @@
 - 🔭 I’m currently working on **many small full-Stack projects**
 
 - 💬 Ask me about **Data Structure,Java,Web development**
-
-- 📫 How to reach me **nimbolkaryogita@gmail.com**
   
 - 👀 I’m interested in programming.
   
