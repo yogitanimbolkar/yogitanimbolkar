@@ -1,7 +1,5 @@
 ## Hi 👋, I'm Yogita Nimbolkar 
 
-<!--
-
 - 📚 Hi, I'm a B.Tech, CSE Student.
 - 🎯 A Passionate Full-Stack developer.
 - 🔭 I’m currently working on many small full-Stack projects.
@@ -10,4 +8,4 @@
 - 👀 I’m interested in programming.
 - 📫 How to reach me: nimbolkaryogita@gmail.com 
 
--->
+
