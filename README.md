@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Frontend frameworks,MongoDB.**
 
-- 🔭 I’m currently working on **many small full-Stack projects**
+- 🔭 I’m currently working on **many small MERN projects**
 
 - 💬 Ask me about **Data Structure,Java,Web development**
   
